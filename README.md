@@ -51,6 +51,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en d
 
 ---
 
-### 📌 Proyectos Destacados
+### Proyects
 
 * **[EjerciciosJava](https://github.com/eladiopd8/EjerciciosJava):** Prácticas de programación concurrente, procesos, hilos y acceso a datos en Java.
