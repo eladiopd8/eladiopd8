@@ -15,10 +15,10 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en d
     <td align="center" width="50%">
       <h4>📱 Lenguajes y Móvil</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,androidstudio&perline=3" />
+        <img src="https://skillicons.dev/icons?i=java,py,androidstudio&perline=3" />
       </a>
       <br />
-      <code>Java</code> • <code>Android</code> • <code>XML</code>
+      <code>Java</code> • <code>Python</code> • <code>Android</code> • <code>XML</code>
     </td>
     <td align="center" width="50%">
       <h4>🌐 Desarrollo Web</h4>
@@ -48,4 +48,3 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en d
     </td>
   </tr>
 </table>
-
