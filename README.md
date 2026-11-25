@@ -8,7 +8,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en d
 
 ---
 
-<h3 align="center">⚡ Stack Tecnológico & Ecosistema</h3>
+<h3 align="center">Stack Tecnológico & Ecosistema</h3>
 
 <table align="center">
   <tr>
